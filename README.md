@@ -13,6 +13,6 @@ This repository contains a set of functions designed to compare three DataFrames
 
 ### Important:
 - **Do not forget to add the `config.py` file to your `.gitignore`** to avoid exposing sensitive information like API tokens. 
-- An example configuration file (`config_example.py`) is provided in the directory for reference.
+- An example configuration file (`config.py`) is provided in the directory for reference.
 
 These functions simplify the comparison of various data sources, such as CSV files, APIs, and JSON data, with **Pandas** as the main data processing library.
